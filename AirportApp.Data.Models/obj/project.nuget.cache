@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFykRF6tbjs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tgefo\\source\\repos\\AirportApp.Data.Models\\AirportApp.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tgefo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
