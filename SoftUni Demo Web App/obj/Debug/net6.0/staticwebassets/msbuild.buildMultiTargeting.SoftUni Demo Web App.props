@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoftUni Demo Web App.props" />
+</Project>

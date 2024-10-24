@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\bin\Debug\net6.0\VehiclesExtended.exe
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\bin\Debug\net6.0\VehiclesExtended.deps.json
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\bin\Debug\net6.0\VehiclesExtended.runtimeconfig.json
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\bin\Debug\net6.0\VehiclesExtended.dll
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\bin\Debug\net6.0\VehiclesExtended.pdb
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.dll
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\refint\VehiclesExtended.dll
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.pdb
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\VehiclesExtended.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\04.Polymorphism\VehiclesExtended\obj\Debug\net6.0\ref\VehiclesExtended.dll

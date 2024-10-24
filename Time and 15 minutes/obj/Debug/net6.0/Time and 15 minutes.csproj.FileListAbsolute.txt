@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Time and 15 minutes\bin\Debug\net6.0\Time and 15 minutes.exe
+C:\Users\tgefo\source\repos\Time and 15 minutes\bin\Debug\net6.0\Time and 15 minutes.deps.json
+C:\Users\tgefo\source\repos\Time and 15 minutes\bin\Debug\net6.0\Time and 15 minutes.runtimeconfig.json
+C:\Users\tgefo\source\repos\Time and 15 minutes\bin\Debug\net6.0\Time and 15 minutes.dll
+C:\Users\tgefo\source\repos\Time and 15 minutes\bin\Debug\net6.0\Time and 15 minutes.pdb
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.dll
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\refint\Time and 15 minutes.dll
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.pdb
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\Time and 15 minutes.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Time and 15 minutes\obj\Debug\net6.0\ref\Time and 15 minutes.dll

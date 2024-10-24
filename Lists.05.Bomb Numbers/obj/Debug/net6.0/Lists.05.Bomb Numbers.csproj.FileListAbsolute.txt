@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\bin\Debug\net6.0\Lists.05.Bomb Numbers.exe
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\bin\Debug\net6.0\Lists.05.Bomb Numbers.deps.json
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\bin\Debug\net6.0\Lists.05.Bomb Numbers.runtimeconfig.json
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\bin\Debug\net6.0\Lists.05.Bomb Numbers.dll
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\bin\Debug\net6.0\Lists.05.Bomb Numbers.pdb
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.dll
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\refint\Lists.05.Bomb Numbers.dll
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.pdb
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\Lists.05.Bomb Numbers.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Lists.05.Bomb Numbers\obj\Debug\net6.0\ref\Lists.05.Bomb Numbers.dll

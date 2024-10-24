@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.exe
+C:\Users\tgefo\source\repos\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.deps.json
+C:\Users\tgefo\source\repos\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.runtimeconfig.json
+C:\Users\tgefo\source\repos\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.dll
+C:\Users\tgefo\source\repos\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.pdb
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.dll
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\refint\03.SantasHoliday.dll
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.pdb
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\03.SantasHoliday\obj\Debug\net6.0\ref\03.SantasHoliday.dll

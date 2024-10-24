@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\tgefo\source\repos\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\tgefo\source\repos\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\tgefo\source\repos\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\tgefo\source\repos\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

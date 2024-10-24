@@ -1,0 +1,4 @@
+C:\Users\tgefo\source\repos\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\02. BraceletStand\bin\Debug\net6.0\02. BraceletStand.exe
+C:\Users\tgefo\source\repos\02. BraceletStand\bin\Debug\net6.0\02. BraceletStand.deps.json
+C:\Users\tgefo\source\repos\02. BraceletStand\bin\Debug\net6.0\02. BraceletStand.runtimeconfig.json
+C:\Users\tgefo\source\repos\02. BraceletStand\bin\Debug\net6.0\02. BraceletStand.dll
+C:\Users\tgefo\source\repos\02. BraceletStand\bin\Debug\net6.0\02. BraceletStand.pdb
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.dll
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\refint\02. BraceletStand.dll
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.pdb
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\02. BraceletStand.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\02. BraceletStand\obj\Debug\net6.0\ref\02. BraceletStand.dll

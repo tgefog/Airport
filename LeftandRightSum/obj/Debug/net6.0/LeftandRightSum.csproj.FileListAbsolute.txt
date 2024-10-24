@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.exe
+C:\Users\tgefo\source\repos\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.deps.json
+C:\Users\tgefo\source\repos\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.runtimeconfig.json
+C:\Users\tgefo\source\repos\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.dll
+C:\Users\tgefo\source\repos\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.pdb
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.dll
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\refint\LeftandRightSum.dll
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.pdb
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\LeftandRightSum\obj\Debug\net6.0\ref\LeftandRightSum.dll

@@ -1,0 +1,11 @@
+C:\Users\tgefo\source\repos\AirportApp.Common\bin\Debug\net8.0\AirportApp.Common.deps.json
+C:\Users\tgefo\source\repos\AirportApp.Common\bin\Debug\net8.0\AirportApp.Common.dll
+C:\Users\tgefo\source\repos\AirportApp.Common\bin\Debug\net8.0\AirportApp.Common.pdb
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.dll
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\refint\AirportApp.Common.dll
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\AirportApp.Common.pdb
+C:\Users\tgefo\source\repos\AirportApp.Common\obj\Debug\net8.0\ref\AirportApp.Common.dll

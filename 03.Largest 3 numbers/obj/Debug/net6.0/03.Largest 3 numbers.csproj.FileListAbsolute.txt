@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\bin\Debug\net6.0\03.Largest 3 numbers.exe
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\bin\Debug\net6.0\03.Largest 3 numbers.deps.json
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\bin\Debug\net6.0\03.Largest 3 numbers.runtimeconfig.json
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\bin\Debug\net6.0\03.Largest 3 numbers.dll
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\bin\Debug\net6.0\03.Largest 3 numbers.pdb
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.dll
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\refint\03.Largest 3 numbers.dll
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.pdb
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\03.Largest 3 numbers.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\03.Largest 3 numbers\obj\Debug\net6.0\ref\03.Largest 3 numbers.dll

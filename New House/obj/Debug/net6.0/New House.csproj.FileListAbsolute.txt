@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\New House\bin\Debug\net6.0\New House.exe
+C:\Users\tgefo\source\repos\New House\bin\Debug\net6.0\New House.deps.json
+C:\Users\tgefo\source\repos\New House\bin\Debug\net6.0\New House.runtimeconfig.json
+C:\Users\tgefo\source\repos\New House\bin\Debug\net6.0\New House.dll
+C:\Users\tgefo\source\repos\New House\bin\Debug\net6.0\New House.pdb
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.dll
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\refint\New House.dll
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.pdb
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\New House.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\New House\obj\Debug\net6.0\ref\New House.dll

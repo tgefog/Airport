@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\EasterCompetition\bin\Debug\net6.0\EasterCompetition.exe
+C:\Users\tgefo\source\repos\EasterCompetition\bin\Debug\net6.0\EasterCompetition.deps.json
+C:\Users\tgefo\source\repos\EasterCompetition\bin\Debug\net6.0\EasterCompetition.runtimeconfig.json
+C:\Users\tgefo\source\repos\EasterCompetition\bin\Debug\net6.0\EasterCompetition.dll
+C:\Users\tgefo\source\repos\EasterCompetition\bin\Debug\net6.0\EasterCompetition.pdb
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.dll
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\refint\EasterCompetition.dll
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.pdb
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\EasterCompetition.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\EasterCompetition\obj\Debug\net6.0\ref\EasterCompetition.dll

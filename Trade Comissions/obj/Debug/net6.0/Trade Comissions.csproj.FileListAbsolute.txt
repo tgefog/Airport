@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Trade Comissions\bin\Debug\net6.0\Trade Comissions.exe
+C:\Users\tgefo\source\repos\Trade Comissions\bin\Debug\net6.0\Trade Comissions.deps.json
+C:\Users\tgefo\source\repos\Trade Comissions\bin\Debug\net6.0\Trade Comissions.runtimeconfig.json
+C:\Users\tgefo\source\repos\Trade Comissions\bin\Debug\net6.0\Trade Comissions.dll
+C:\Users\tgefo\source\repos\Trade Comissions\bin\Debug\net6.0\Trade Comissions.pdb
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.dll
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\refint\Trade Comissions.dll
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.pdb
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\Trade Comissions.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Trade Comissions\obj\Debug\net6.0\ref\Trade Comissions.dll

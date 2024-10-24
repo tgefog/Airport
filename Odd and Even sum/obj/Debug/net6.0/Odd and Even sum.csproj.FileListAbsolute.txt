@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Odd and Even sum\bin\Debug\net6.0\Odd and Even sum.exe
+C:\Users\tgefo\source\repos\Odd and Even sum\bin\Debug\net6.0\Odd and Even sum.deps.json
+C:\Users\tgefo\source\repos\Odd and Even sum\bin\Debug\net6.0\Odd and Even sum.runtimeconfig.json
+C:\Users\tgefo\source\repos\Odd and Even sum\bin\Debug\net6.0\Odd and Even sum.dll
+C:\Users\tgefo\source\repos\Odd and Even sum\bin\Debug\net6.0\Odd and Even sum.pdb
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.dll
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\refint\Odd and Even sum.dll
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.pdb
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\Odd and Even sum.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Odd and Even sum\obj\Debug\net6.0\ref\Odd and Even sum.dll

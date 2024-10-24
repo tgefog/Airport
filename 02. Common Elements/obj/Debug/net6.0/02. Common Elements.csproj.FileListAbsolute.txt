@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\02. Common Elements\bin\Debug\net6.0\02. Common Elements.exe
+C:\Users\tgefo\source\repos\02. Common Elements\bin\Debug\net6.0\02. Common Elements.deps.json
+C:\Users\tgefo\source\repos\02. Common Elements\bin\Debug\net6.0\02. Common Elements.runtimeconfig.json
+C:\Users\tgefo\source\repos\02. Common Elements\bin\Debug\net6.0\02. Common Elements.dll
+C:\Users\tgefo\source\repos\02. Common Elements\bin\Debug\net6.0\02. Common Elements.pdb
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.dll
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\refint\02. Common Elements.dll
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.pdb
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\02. Common Elements.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\02. Common Elements\obj\Debug\net6.0\ref\02. Common Elements.dll

@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Fish Tank\bin\Debug\net6.0\Fish Tank.exe
+C:\Users\tgefo\source\repos\Fish Tank\bin\Debug\net6.0\Fish Tank.deps.json
+C:\Users\tgefo\source\repos\Fish Tank\bin\Debug\net6.0\Fish Tank.runtimeconfig.json
+C:\Users\tgefo\source\repos\Fish Tank\bin\Debug\net6.0\Fish Tank.dll
+C:\Users\tgefo\source\repos\Fish Tank\bin\Debug\net6.0\Fish Tank.pdb
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.dll
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\refint\Fish Tank.dll
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.pdb
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\Fish Tank.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Fish Tank\obj\Debug\net6.0\ref\Fish Tank.dll

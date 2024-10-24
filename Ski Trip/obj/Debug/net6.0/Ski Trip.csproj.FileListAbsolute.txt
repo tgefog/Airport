@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Ski Trip\bin\Debug\net6.0\Ski Trip.exe
+C:\Users\tgefo\source\repos\Ski Trip\bin\Debug\net6.0\Ski Trip.deps.json
+C:\Users\tgefo\source\repos\Ski Trip\bin\Debug\net6.0\Ski Trip.runtimeconfig.json
+C:\Users\tgefo\source\repos\Ski Trip\bin\Debug\net6.0\Ski Trip.dll
+C:\Users\tgefo\source\repos\Ski Trip\bin\Debug\net6.0\Ski Trip.pdb
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.dll
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\refint\Ski Trip.dll
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.pdb
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\Ski Trip.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Ski Trip\obj\Debug\net6.0\ref\Ski Trip.dll

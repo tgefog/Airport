@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\03. Extract FIle\bin\Debug\net6.0\03. Extract FIle.exe
+C:\Users\tgefo\source\repos\03. Extract FIle\bin\Debug\net6.0\03. Extract FIle.deps.json
+C:\Users\tgefo\source\repos\03. Extract FIle\bin\Debug\net6.0\03. Extract FIle.runtimeconfig.json
+C:\Users\tgefo\source\repos\03. Extract FIle\bin\Debug\net6.0\03. Extract FIle.dll
+C:\Users\tgefo\source\repos\03. Extract FIle\bin\Debug\net6.0\03. Extract FIle.pdb
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.dll
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\refint\03. Extract FIle.dll
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.pdb
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\03. Extract FIle.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\03. Extract FIle\obj\Debug\net6.0\ref\03. Extract FIle.dll

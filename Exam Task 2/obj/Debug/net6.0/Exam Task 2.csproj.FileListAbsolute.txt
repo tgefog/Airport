@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Exam Task 2\bin\Debug\net6.0\Exam Task 2.exe
+C:\Users\tgefo\source\repos\Exam Task 2\bin\Debug\net6.0\Exam Task 2.deps.json
+C:\Users\tgefo\source\repos\Exam Task 2\bin\Debug\net6.0\Exam Task 2.runtimeconfig.json
+C:\Users\tgefo\source\repos\Exam Task 2\bin\Debug\net6.0\Exam Task 2.dll
+C:\Users\tgefo\source\repos\Exam Task 2\bin\Debug\net6.0\Exam Task 2.pdb
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.dll
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\refint\Exam Task 2.dll
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.pdb
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\Exam Task 2.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Exam Task 2\obj\Debug\net6.0\ref\Exam Task 2.dll

@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.exe
+C:\Users\tgefo\source\repos\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.deps.json
+C:\Users\tgefo\source\repos\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.runtimeconfig.json
+C:\Users\tgefo\source\repos\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.dll
+C:\Users\tgefo\source\repos\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.dll
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\refint\HelloSoftUni.dll
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\HelloSoftUni\obj\Debug\net6.0\ref\HelloSoftUni.dll
