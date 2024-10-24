@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\bin\Debug\net8.0\AirportApp.Data.Models.deps.json
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\bin\Debug\net8.0\AirportApp.Data.Models.dll
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\bin\Debug\net8.0\AirportApp.Data.Models.pdb
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\bin\Debug\net8.0\AirportApp.Common.dll
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\bin\Debug\net8.0\AirportApp.Common.pdb
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.csproj.CopyComplete
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.dll
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\refint\AirportApp.Data.Models.dll
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\AirportApp.Data.Models.pdb
+C:\Users\tgefo\source\repos\AirportApp.Data.Models\obj\Debug\net8.0\ref\AirportApp.Data.Models.dll
