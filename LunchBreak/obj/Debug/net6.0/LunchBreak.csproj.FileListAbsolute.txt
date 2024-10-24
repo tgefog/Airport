@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\LunchBreak\bin\Debug\net6.0\LunchBreak.exe
+C:\Users\tgefo\source\repos\LunchBreak\bin\Debug\net6.0\LunchBreak.deps.json
+C:\Users\tgefo\source\repos\LunchBreak\bin\Debug\net6.0\LunchBreak.runtimeconfig.json
+C:\Users\tgefo\source\repos\LunchBreak\bin\Debug\net6.0\LunchBreak.dll
+C:\Users\tgefo\source\repos\LunchBreak\bin\Debug\net6.0\LunchBreak.pdb
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.dll
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\refint\LunchBreak.dll
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.pdb
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\LunchBreak.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\LunchBreak\obj\Debug\net6.0\ref\LunchBreak.dll

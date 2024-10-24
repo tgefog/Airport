@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Fruit Shop\bin\Debug\net6.0\Fruit Shop.exe
+C:\Users\tgefo\source\repos\Fruit Shop\bin\Debug\net6.0\Fruit Shop.deps.json
+C:\Users\tgefo\source\repos\Fruit Shop\bin\Debug\net6.0\Fruit Shop.runtimeconfig.json
+C:\Users\tgefo\source\repos\Fruit Shop\bin\Debug\net6.0\Fruit Shop.dll
+C:\Users\tgefo\source\repos\Fruit Shop\bin\Debug\net6.0\Fruit Shop.pdb
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.dll
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\refint\Fruit Shop.dll
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.pdb
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\Fruit Shop.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Fruit Shop\obj\Debug\net6.0\ref\Fruit Shop.dll

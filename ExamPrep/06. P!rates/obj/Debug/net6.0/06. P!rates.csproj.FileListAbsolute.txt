@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\bin\Debug\net6.0\06. P!rates.exe
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\bin\Debug\net6.0\06. P!rates.deps.json
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\bin\Debug\net6.0\06. P!rates.runtimeconfig.json
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\bin\Debug\net6.0\06. P!rates.dll
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\bin\Debug\net6.0\06. P!rates.pdb
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.dll
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\refint\06. P!rates.dll
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.pdb
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\06. P!rates.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\ExamPrep\06. P!rates\obj\Debug\net6.0\ref\06. P!rates.dll

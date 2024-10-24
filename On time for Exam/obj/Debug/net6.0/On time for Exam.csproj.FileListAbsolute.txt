@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\On time for Exam\bin\Debug\net6.0\On time for Exam.exe
+C:\Users\tgefo\source\repos\On time for Exam\bin\Debug\net6.0\On time for Exam.deps.json
+C:\Users\tgefo\source\repos\On time for Exam\bin\Debug\net6.0\On time for Exam.runtimeconfig.json
+C:\Users\tgefo\source\repos\On time for Exam\bin\Debug\net6.0\On time for Exam.dll
+C:\Users\tgefo\source\repos\On time for Exam\bin\Debug\net6.0\On time for Exam.pdb
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.dll
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\refint\On time for Exam.dll
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.pdb
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\On time for Exam.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\On time for Exam\obj\Debug\net6.0\ref\On time for Exam.dll

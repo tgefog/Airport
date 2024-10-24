@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\OddAndEven\bin\Debug\net6.0\OddAndEven.exe
+C:\Users\tgefo\source\repos\OddAndEven\bin\Debug\net6.0\OddAndEven.deps.json
+C:\Users\tgefo\source\repos\OddAndEven\bin\Debug\net6.0\OddAndEven.runtimeconfig.json
+C:\Users\tgefo\source\repos\OddAndEven\bin\Debug\net6.0\OddAndEven.dll
+C:\Users\tgefo\source\repos\OddAndEven\bin\Debug\net6.0\OddAndEven.pdb
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.dll
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\refint\OddAndEven.dll
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.pdb
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\OddAndEven.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\OddAndEven\obj\Debug\net6.0\ref\OddAndEven.dll

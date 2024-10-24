@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Min Number\bin\Debug\net6.0\Min Number.exe
+C:\Users\tgefo\source\repos\Min Number\bin\Debug\net6.0\Min Number.deps.json
+C:\Users\tgefo\source\repos\Min Number\bin\Debug\net6.0\Min Number.runtimeconfig.json
+C:\Users\tgefo\source\repos\Min Number\bin\Debug\net6.0\Min Number.dll
+C:\Users\tgefo\source\repos\Min Number\bin\Debug\net6.0\Min Number.pdb
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.dll
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\refint\Min Number.dll
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.pdb
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\Min Number.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Min Number\obj\Debug\net6.0\ref\Min Number.dll

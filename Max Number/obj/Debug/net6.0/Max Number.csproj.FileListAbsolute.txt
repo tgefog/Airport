@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Max Number\bin\Debug\net6.0\Max Number.exe
+C:\Users\tgefo\source\repos\Max Number\bin\Debug\net6.0\Max Number.deps.json
+C:\Users\tgefo\source\repos\Max Number\bin\Debug\net6.0\Max Number.runtimeconfig.json
+C:\Users\tgefo\source\repos\Max Number\bin\Debug\net6.0\Max Number.dll
+C:\Users\tgefo\source\repos\Max Number\bin\Debug\net6.0\Max Number.pdb
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.dll
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\refint\Max Number.dll
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.pdb
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\Max Number.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Max Number\obj\Debug\net6.0\ref\Max Number.dll

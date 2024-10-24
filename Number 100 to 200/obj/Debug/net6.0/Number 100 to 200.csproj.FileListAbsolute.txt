@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Number 100 to 200\bin\Debug\net6.0\Number 100 to 200.exe
+C:\Users\tgefo\source\repos\Number 100 to 200\bin\Debug\net6.0\Number 100 to 200.deps.json
+C:\Users\tgefo\source\repos\Number 100 to 200\bin\Debug\net6.0\Number 100 to 200.runtimeconfig.json
+C:\Users\tgefo\source\repos\Number 100 to 200\bin\Debug\net6.0\Number 100 to 200.dll
+C:\Users\tgefo\source\repos\Number 100 to 200\bin\Debug\net6.0\Number 100 to 200.pdb
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.dll
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\refint\Number 100 to 200.dll
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.pdb
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\Number 100 to 200.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Number 100 to 200\obj\Debug\net6.0\ref\Number 100 to 200.dll

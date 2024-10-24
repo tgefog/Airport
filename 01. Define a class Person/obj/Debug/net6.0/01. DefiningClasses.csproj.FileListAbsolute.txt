@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\01. Define a class Person\bin\Debug\net6.0\01. DefiningClasses.exe
+C:\Users\tgefo\source\repos\01. Define a class Person\bin\Debug\net6.0\01. DefiningClasses.deps.json
+C:\Users\tgefo\source\repos\01. Define a class Person\bin\Debug\net6.0\01. DefiningClasses.runtimeconfig.json
+C:\Users\tgefo\source\repos\01. Define a class Person\bin\Debug\net6.0\01. DefiningClasses.dll
+C:\Users\tgefo\source\repos\01. Define a class Person\bin\Debug\net6.0\01. DefiningClasses.pdb
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.dll
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\refint\01. DefiningClasses.dll
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.pdb
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\01. DefiningClasses.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\01. Define a class Person\obj\Debug\net6.0\ref\01. DefiningClasses.dll

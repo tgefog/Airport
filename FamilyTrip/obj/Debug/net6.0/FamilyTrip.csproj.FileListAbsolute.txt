@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\FamilyTrip\bin\Debug\net6.0\FamilyTrip.exe
+C:\Users\tgefo\source\repos\FamilyTrip\bin\Debug\net6.0\FamilyTrip.deps.json
+C:\Users\tgefo\source\repos\FamilyTrip\bin\Debug\net6.0\FamilyTrip.runtimeconfig.json
+C:\Users\tgefo\source\repos\FamilyTrip\bin\Debug\net6.0\FamilyTrip.dll
+C:\Users\tgefo\source\repos\FamilyTrip\bin\Debug\net6.0\FamilyTrip.pdb
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.dll
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\refint\FamilyTrip.dll
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.pdb
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\FamilyTrip.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\FamilyTrip\obj\Debug\net6.0\ref\FamilyTrip.dll

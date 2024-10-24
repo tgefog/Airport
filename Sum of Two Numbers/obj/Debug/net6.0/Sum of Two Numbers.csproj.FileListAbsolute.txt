@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Sum of Two Numbers\bin\Debug\net6.0\Sum of Two Numbers.exe
+C:\Users\tgefo\source\repos\Sum of Two Numbers\bin\Debug\net6.0\Sum of Two Numbers.deps.json
+C:\Users\tgefo\source\repos\Sum of Two Numbers\bin\Debug\net6.0\Sum of Two Numbers.runtimeconfig.json
+C:\Users\tgefo\source\repos\Sum of Two Numbers\bin\Debug\net6.0\Sum of Two Numbers.dll
+C:\Users\tgefo\source\repos\Sum of Two Numbers\bin\Debug\net6.0\Sum of Two Numbers.pdb
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.dll
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\refint\Sum of Two Numbers.dll
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.pdb
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\Sum of Two Numbers.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Sum of Two Numbers\obj\Debug\net6.0\ref\Sum of Two Numbers.dll

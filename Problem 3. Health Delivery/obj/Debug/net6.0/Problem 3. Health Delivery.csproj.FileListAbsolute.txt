@@ -1,0 +1,15 @@
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\bin\Debug\net6.0\Problem 3. Health Delivery.exe
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\bin\Debug\net6.0\Problem 3. Health Delivery.deps.json
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\bin\Debug\net6.0\Problem 3. Health Delivery.runtimeconfig.json
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\bin\Debug\net6.0\Problem 3. Health Delivery.dll
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\bin\Debug\net6.0\Problem 3. Health Delivery.pdb
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.csproj.AssemblyReference.cache
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.AssemblyInfoInputs.cache
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.AssemblyInfo.cs
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.csproj.CoreCompileInputs.cache
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.dll
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\refint\Problem 3. Health Delivery.dll
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.pdb
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\Problem 3. Health Delivery.genruntimeconfig.cache
+C:\Users\tgefo\source\repos\Problem 3. Health Delivery\obj\Debug\net6.0\ref\Problem 3. Health Delivery.dll

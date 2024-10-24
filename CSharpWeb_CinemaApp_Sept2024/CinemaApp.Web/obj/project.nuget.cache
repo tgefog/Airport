@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZWZGaOhDRpc73+P1qDk5PjKzG4mQDAvVdZdNw9qgBAuaHfaZwFMgTwnV4xe7SgiWhB+BtKih2O+WUYs2RRb8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tgefo\\source\\repos\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\CinemaApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tgefo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\tgefo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
