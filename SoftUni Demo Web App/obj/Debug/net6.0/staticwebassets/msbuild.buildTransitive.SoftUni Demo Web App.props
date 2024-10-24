@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SoftUni Demo Web App.props" />
-</Project>
